@@ -1,7 +1,7 @@
 const { execFile } = require("child_process");
 const path = require("path");
 
-//?     does the same shit but in a .sh file for bash scripting and bluh bluh bluh
+//?     does the same shit but in a .sh file for bash scripting and bluh bluh bluh.
 
 const execPath = path.resolve(__dirname, "./execFile.sh");
 
