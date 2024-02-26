@@ -1,5 +1,5 @@
 const functionalBitch = (someMessage) => {
-    console.log("this bitch stole my function");
+    console.log("this bitch's stole my function");
     console.log(someMessage);
 }
 
